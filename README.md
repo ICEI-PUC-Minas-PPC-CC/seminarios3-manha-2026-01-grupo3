@@ -13,7 +13,7 @@
 | **Nome do Grupo** | Grupo 3 |
 | **Integrantes** | Gabriel de Oliveira Maziero, Gabriel Fernandes de Sá Andrade, Gabriel Oliveira de Souza, Hans Carlos Cunha |
 | **E-mail de contato** | hans.cunha@sga.pucminas.br |
-| **Comunidade parceira** | *(preencher)* |
+| **Comunidade parceira** | *(Escola Tarcio de Coimbra)* |
 
 ---
 
