@@ -39,7 +39,7 @@
 | Título/Tema da aplicação | Aula Dinâmica de Português |
 | Público-alvo | Alunos |
 | Nº estimado de usuários | 10 - 12|
-| Faixa etária do público | 10 - 15 anos|
+| Faixa etária do público | 10 - 18 anos|
 | Tecnologias previstas | aparelho com internet |
 | Hospedagem prevista | |
 
