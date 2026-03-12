@@ -1,1 +1,51 @@
-teste1
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>Prototipo</title>
+		<link type="text/css" rel="stylesheet" href="style.css" />
+		<script type="text/javascript" src=""></script>
+	</head>
+	
+	<body>
+		<div class="container">
+			<div class="ask-box">
+				Calcule:<br>
+				1 + 1 = ?<br>
+				<button onclick="opErrada(this)">1</button>
+				<button onclick="opCerta(this)" class="correta">2</button>
+				<button onclick="opErrada(this)">3</button>
+			</div>
+		</div>
+
+		<script>
+				function opCerta(botao) {
+					botao.classList.add("certo");
+					desativarBotoes(botao);
+				}
+
+				function opErrada(botao) {
+					botao.classList.add("errado");
+					mostrarCorreta(botao);
+					desativarBotoes(botao);
+				}
+
+				function desativarBotoes(botao) {
+					const caixa = botao.closest(".ask-box");
+					const botoes = caixa.querySelectorAll("button");
+
+					botoes.forEach(function(botao) {
+					botao.disabled = true;
+					});
+				}
+
+				function mostrarCorreta(botao) {
+					const caixa = botao.closest(".ask-box");
+					const botaoCerto = caixa.querySelector(".correta");
+
+					botaoCerto.classList.add("certo");
+				}
+		</script>
+	</body>
+</html>

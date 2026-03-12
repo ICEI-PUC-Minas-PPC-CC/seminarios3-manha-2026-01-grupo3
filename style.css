@@ -1,0 +1,19 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 28px;
+}
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.certo {
+    background-color: green;
+}
+
+.errado {
+    background-color: red;
+}
