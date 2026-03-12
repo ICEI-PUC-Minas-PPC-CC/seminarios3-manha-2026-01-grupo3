@@ -16,11 +16,11 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Data | |
-| Forma de contato | *(Presencial / Online / E-mail / Telefone / WhatsApp)* |
-| Participantes do grupo | |
-| Participantes da comunidade | |
-| Objetivo do contato | |
+| Data | 06/03/2026 14h30|
+| Forma de contato | Online |
+| Participantes do grupo | 2 |
+| Participantes da comunidade | 2 |
+| Objetivo do contato | Atribuir as ideias para o desenvolvimento dos softwares |
 
 **Resumo do que foi tratado:**
 (Descrever o que foi discutido, decisões tomadas, demandas identificadas.)
