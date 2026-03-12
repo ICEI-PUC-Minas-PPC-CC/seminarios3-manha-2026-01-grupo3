@@ -41,7 +41,7 @@
 | Nº estimado de usuários | 10 - 12|
 | Faixa etária do público | 10 - 18 anos|
 | Tecnologias previstas | aparelho com internet |
-| Hospedagem prevista | |
+| Hospedagem prevista | Escola Tarso de Coimbra |
 
 ### Breve descrição da aplicação e sua finalidade
 
