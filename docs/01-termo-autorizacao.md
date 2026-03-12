@@ -15,8 +15,8 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome do Grupo | |
-| Integrantes | |
+| Nome do Grupo | Grupo 3 |
+| Integrantes |Gabriel de Oliveira Maziero // Hans Carlos Cunha // Gabriel Fernandes de Sá Andrade // Gabriel Oliveira de Souza |
 | E-mail de contato | |
 | Telefone de contato | |
 
@@ -24,11 +24,11 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Nome da instituição | |
-| Endereço | |
-| Nome do responsável | |
-| Cargo/Função | |
-| Telefone ou e-mail da instituição | |
+| Nome da instituição | Escola Municipal Doutor Tarso de Coimbra |
+| Endereço | R. Mario Xandó de Oliveira, 2 - São Geraldo, Poços de Caldas - MG, 37701-335 |
+| Nome do responsável | Fabiana |
+| Cargo/Função | Diretora |
+| Telefone ou e-mail da instituição | (35) 3697-2126 |
 
 > **Nota:** O professor responsável pela disciplina poderá entrar em contato com a comunidade/instituição acima indicada para fins de validação das informações, acompanhamento do desenvolvimento, ajustes no planejamento e alinhamentos necessários à entrega do software.
 
@@ -36,20 +36,20 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Título/Tema da aplicação | |
-| Público-alvo | |
-| Nº estimado de usuários | |
-| Faixa etária do público | |
-| Tecnologias previstas | |
+| Título/Tema da aplicação | Aula Dinâmica de Português |
+| Público-alvo | Alunos |
+| Nº estimado de usuários | 10 - 12|
+| Faixa etária do público | 10 - 15 anos|
+| Tecnologias previstas | aparelho com internet |
 | Hospedagem prevista | |
 
 ### Breve descrição da aplicação e sua finalidade
 
-(Descreva aqui o software que será desenvolvido, seus objetivos e como atende às demandas da comunidade.)
+O software será desenvolvido com a parte de front end (HTML, JAVA SCRIPT E CSS), no qual será como um jogo de perguntas e respostas referentes a aula que será dada. O intuito desse software é fazer com que os alunos tenham uma aula mais extrovertida sobre a matéria Português e que possa enfatizar essa parte tão importante da Língua Portuguesa.
 
 ## 4. Levantamento de Demandas da Comunidade
 
-(Descreva como as demandas foram levantadas — reuniões presenciais, reuniões online, conversa com responsável, questionário, etc. — e como a aplicação proposta atende a essas demandas.)
+A devanda veio a partir de uma reunião online via TEAMS com os representantes da escola Tarso de Coimbra e em uma conversa entre os integrantes do grupo, com o objetivo de resaltar a importancia de saber a norma culta do Português, trazendo isso para a area da tecnologia, fugindo um pouco da sala de aula e livros.
 
 ### Registro de contatos com a comunidade
 
