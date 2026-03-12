@@ -17,8 +17,8 @@
 | ------- | ----------- |
 | Nome do Grupo | Grupo 3 |
 | Integrantes |Gabriel de Oliveira Maziero // Hans Carlos Cunha // Gabriel Fernandes de Sá Andrade // Gabriel Oliveira de Souza |
-| E-mail de contato | |
-| Telefone de contato | |
+| E-mail de contato | hans.cunha@sga.pucminas.br |
+| Telefone de contato | (19) 97169-6096 (Gabriel de Oliveira Maziero) |
 
 ## 2. Dados da Comunidade / Instituição Parceira
 
