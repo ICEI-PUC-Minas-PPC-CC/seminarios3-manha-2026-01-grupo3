@@ -9,8 +9,8 @@
 
 | Integrante | Responsabilidades principais |
 | ----------- | ------------------------------ |
-| | |
-| | |
+| Hans | Programador |
+| Gabrieis | Preparar a aula |
 | | |
 | | |
 
@@ -65,15 +65,15 @@
 
 | Risco | Probabilidade | Impacto | Mitigação |
 | ------- | :------------: | :-------: | ---------- |
-| Atraso no cronograma | | | |
-| Dificuldade técnica inesperada | | | |
-| Comunidade indisponível para reuniões | | | |
-| Problemas de infraestrutura no dia da entrega | | | |
+| Atraso no cronograma | Talvez | Vai atrazar| |
+| Dificuldade técnica inesperada | Baixa | Baixo| |
+| Comunidade indisponível para reuniões | Talvez | Alto impacto| |
+| Problemas de infraestrutura no dia da entrega | Baixa | Baixo| |
 
 ## 6. Comunicação do Grupo
 
 | Canal | Finalidade |
 | ------- | ----------- |
-| *(WhatsApp / Discord / Teams)* | Comunicação diária |
+| *(WhatsApp / Discord)* | Comunicação diária |
 | *(GitHub Issues / Projects)* | Controle de tarefas |
 | *(Reuniões semanais)* | Alinhamento do grupo |
