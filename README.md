@@ -19,7 +19,7 @@
 
 ## 🎯 Software a Ser Desenvolvido
 
-(Descreva brevemente a aplicação que será desenvolvida e seu objetivo.)
+Nosso projeto será uma aula de Português, na qual explicaremos um pouco sobre VERBOS, OBJETOS e SUJEITOS. Ao final, será feito um questionario em forma de jogo com algumas perguntas referentes a aula. De modo que ao assinalar a correta, terá uma checkbox para mostrar que acertou ou que errou.
 
 ---
 
