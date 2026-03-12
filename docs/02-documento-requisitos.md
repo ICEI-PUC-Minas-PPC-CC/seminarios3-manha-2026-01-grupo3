@@ -14,10 +14,10 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Perfil dos usuários | |
-| Faixa etária | |
-| Necessidades de acessibilidade | |
-| Nível de familiaridade com tecnologia | |
+| Perfil dos usuários | Estudantes |
+| Faixa etária | 13 anos ou mais|
+| Necessidades de acessibilidade | Internet e um computador ou celular e provavel interprete para surdos|
+| Nível de familiaridade com tecnologia | Baixa |
 
 > **Lembrete (Tarso de Coimbra):** Os usuários podem ter deficiência auditiva/surdez. A interface deve ser **visual, intuitiva e de baixa complexidade**. Priorize elementos visuais (imagens, ícones, cores) sobre texto extenso.
 
@@ -43,22 +43,22 @@
 
 ## 5. Requisitos de Acessibilidade
 
-- [ ] Interface predominantemente visual (ícones, cores, imagens)
+- [x] Interface predominantemente visual (ícones, cores, imagens)
 - [ ] Textos curtos e objetivos
-- [ ] Botões grandes e identificáveis
-- [ ] Contraste adequado de cores
+- [x] Botões grandes e identificáveis
+- [x] Contraste adequado de cores
 - [ ] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
-- [ ] Sem dependência de áudio para funcionalidades essenciais
+- [x] Sem dependência de áudio para funcionalidades essenciais
 - [ ] Outro: *(especificar)*
 
 ## 6. Tecnologias Escolhidas
 
 | Componente | Tecnologia |
 | ----------- | ----------- |
-| Front-end | |
+| Front-end | HTML, CSS, Java Script |
 | Back-end (se houver) | |
 | Banco de dados (se houver) | |
-| Hospedagem | |
+| Hospedagem | Github Pages |
 | Outras ferramentas | |
 
 ## 7. Protótipo / Wireframes
