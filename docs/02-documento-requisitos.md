@@ -1,9 +1,8 @@
 # 02 — Documento de Requisitos do Software
 
 > **Grupo:** Gabriel Fernandes de Sá Andrade / Gabriel de Oliveira Maziero / Gabriel Oliveira de Souza / Hans Carlos Cunha
-> **Aplicação:** *(preencher)*  
-> **Comunidade:** *(preencher)*
-
+> **Aplicação:** Aplicação interativa para prática de cálculos matemáticos básicos com foco em acessibilidade visual
+> **Comunidade:** Instituição Tarso de Coimbra (pessoas com deficiência auditiva/surdez)
 ---
 
 ## 1. Visão Geral
