@@ -92,5 +92,4 @@ As funcionalidades mínimas para a primeira versão do sistema incluem:
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
-- *(Funcionalidade extra 1)*
-- *(Funcionalidade extra 2)*
+O software tem como funcionalidades desejáveis: questões sobre a materia de português, no qual ao acertar deve se contabilizar com uma caixinha verde na alternativa. Ao final de cada questao, deve-se explicar porque aquela alternativa esta correta. Deve apresentar também um contador, para que o jogador saiba quantas ele acertou
