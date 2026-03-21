@@ -52,12 +52,13 @@ tornando o aprendizado mais acessível, inclusivo e eficiente.
 ## 5. Requisitos de Acessibilidade
 
 - [x] Interface predominantemente visual (ícones, cores, imagens)
-- [ ] Textos curtos e objetivos
+- [x] Textos curtos e objetivos
 - [x] Botões grandes e identificáveis
 - [x] Contraste adequado de cores
 - [ ] Compatível com Libras (se aplicável: vídeos, sinais, glossário)
 - [x] Sem dependência de áudio para funcionalidades essenciais
-- [ ] Outro: *(especificar)*
+- [x] Uso de cores para indicar acerto (verde) e erro (vermelho)
+- [x] Layout simples e de fácil compreensão
 
 ## 6. Tecnologias Escolhidas
 
