@@ -1,6 +1,6 @@
 # 02 — Documento de Requisitos do Software
 
-> **Grupo:** Gabriel Fernandes de Sá Andrade / Gabriel de Oliveira Maziero / Gabriel Oliveira de Souza / Hans Carlos Cunha 
+> **Grupo:** Gabriel Fernandes de Sá Andrade / Gabriel de Oliveira Maziero / Gabriel Oliveira de Souza / Hans Carlos Cunha
 > **Aplicação:** *(preencher)*  
 > **Comunidade:** *(preencher)*
 
