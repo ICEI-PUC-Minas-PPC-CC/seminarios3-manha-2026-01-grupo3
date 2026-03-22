@@ -45,17 +45,17 @@
 
 ### Breve descrição da aplicação e sua finalidade
 
-O software será desenvolvido com a parte de front end (HTML, JAVA SCRIPT E CSS), no qual será como um jogo de perguntas e respostas referentes a aula que será dada. O intuito desse software é fazer com que os alunos tenham uma aula mais extrovertida sobre a matéria Matemática e que possa enfatizar essa parte tão importante dos números.
+O software será desenvolvido com a parte de front end (HTML, JAVA SCRIPT E CSS), no qual será como um jogo de perguntas e respostas referentes a aula que será dada. O intuito desse software é fazer com que os alunos tenham uma aula mais extrovertida sobre a matéria Matemática e que possa enfatizar essa parte tão importante dos números e operações.
 
 ## 4. Levantamento de Demandas da Comunidade
 
-A devanda veio a partir de uma reunião online via TEAMS com os representantes da escola Tarso de Coimbra e em uma conversa entre os integrantes do grupo, com o objetivo de resaltar a importancia de saber a norma culta do Português, trazendo isso para a area da tecnologia, fugindo um pouco da sala de aula e livros.
+A demanda veio a partir de uma reunião online via TEAMS com os representantes da escola Tarso de Coimbra e em uma conversa entre os integrantes do grupo, com o objetivo de resaltar a importância de saber o mínimo sobre as operações básicas de Matemática, trazendo isso para a área da tecnologia, fugindo um pouco da sala de aula e livros.
 
 ### Registro de contatos com a comunidade
 
 | Data | Forma de contato | Resumo do que foi tratado |
 | ------ | ----------------- | -------------------------- |
-| | | |
+|06/03/2026 | TEAMS (EAD) | Foi tratado os assuntos e demandas que a instituição necessitava|
 | | | |
 | | | |
 
@@ -74,8 +74,8 @@ A devanda veio a partir de uma reunião online via TEAMS com os representantes d
 ## 6. Autorização
 
 - [ ] O representante da comunidade autorizou o desenvolvimento voluntário e entrega do software.
-- [ ] As demandas refletem necessidades reais identificadas em contato com a comunidade.
-- [ ] O representante está ciente de que o professor poderá entrar em contato para validação e acompanhamento.
+- [x] As demandas refletem necessidades reais identificadas em contato com a comunidade.
+- [x] O representante está ciente de que o professor poderá entrar em contato para validação e acompanhamento.
 - [ ] Foi autorizado o registro fotográfico da entrega para fins de documentação acadêmica.
 - [ ] A comunidade se compromete a disponibilizar horários para reuniões durante o desenvolvimento.
 
