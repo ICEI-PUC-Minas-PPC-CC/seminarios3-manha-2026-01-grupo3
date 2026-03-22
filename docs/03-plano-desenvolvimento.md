@@ -1,8 +1,7 @@
 # 03 — Plano e Cronograma de Desenvolvimento
 
 > **Grupo:** *Gabriel de Oliveira Mazieiro, Gabriel Fernandes, Gabriel Souza, Hans Cunha*  
-> **Aplicação:** Uma aula de Português, sobre VERBOS, OBJETOS E SUJEITOS. E no fim terá um questionário de modo ao assinalar a correta,
-> terá um checkbox do que acertou ou errou.
+> **Aplicação:**  Aplicação interativa para prática de cálculos matemáticos básicos com foco em acessibilidade visual
 
 ---
 
