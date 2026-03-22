@@ -25,7 +25,7 @@ tornando o aprendizado mais acessível, inclusivo e eficiente.
 | Campo | Informação |
 | ------- | ----------- |
 | Perfil dos usuários | Estudantes |
-| Faixa etária | 13 anos ou mais|
+| Faixa etária | 10 anos + |
 | Necessidades de acessibilidade | Internet e um computador ou celular e provavel interprete para surdos|
 | Nível de familiaridade com tecnologia | Baixa |
 
@@ -35,11 +35,9 @@ tornando o aprendizado mais acessível, inclusivo e eficiente.
 
 | ID | Requisito | Prioridade | Origem da demanda |
 | ---- | ---------- | :----------: | ------------------ |
-| RF01 | Cadastro de usuário| Alta| Necessidade do sistema |
-| RF02 | Login com email e senha| Alta | Necessidade do sistema|
-| RF03 | Calculos matemáticos básicos| Alta| Objetivo da aplicação|
-| RF04 |Permitir interação do usuário por meio de botões, ícones e elementos visuais intuitivos| Alta | Necessidades de acessibilidade|
-| RF05 | Exibir resultados dos cálculos de forma clara e visual (números grandes, cores ou feedback visual)| Alta | Necessidades de acessibilidade|
+| RF01 | Calculos matemáticos básicos| Alta| Objetivo da aplicação|
+| RF02 |Permitir interação do usuário por meio de botões, ícones e elementos visuais intuitivos| Alta | Necessidades de acessibilidade|
+| RF03 | Exibir resultados dos cálculos de forma clara e visual (números grandes, cores ou feedback visual)| Alta | Necessidades de acessibilidade|
 
 ## 4. Requisitos Não Funcionais
 
@@ -67,7 +65,7 @@ tornando o aprendizado mais acessível, inclusivo e eficiente.
 | Componente | Tecnologia |
 | ----------- | ----------- |
 | Front-end | HTML, CSS, Java Script |
-| Back-end (se houver) | |
+| Back-end (se houver | |
 | Banco de dados (se houver) | |
 | Hospedagem | Github Pages |
 | Outras ferramentas | |
@@ -78,18 +76,18 @@ tornando o aprendizado mais acessível, inclusivo e eficiente.
 
 ## 8. Escopo Mínimo Viável (MVP)
 
-(Quais funcionalidades compõem a versão mínima que pode ser entregue à comunidade?)
+As funções mínimas do software, para que ja possa ser entregue para a comunidade sâo: As perguntas de artimética, botões de escolha, marco de acertou ou erro (EM CASO DE ERRO, MOSTRAR A ALTERNATIVA CORRETA)
 
 As funcionalidades mínimas para a primeira versão do sistema incluem:
 
-- [ ] Exibição de operações matemáticas simples (ex: 1+1, 2+2)
-- [ ] Seleção de resposta por meio de botões visuais (múltipla escolha)
-- [ ] Feedback visual imediato (cor verde para acerto e vermelho para erro)
-- [ ] Interface simples e intuitiva com foco em elementos visuais
-- [ ] Navegação básica entre exercícios
-- [ ] Sequência de exercícios progressivos (nível fácil)
-- [ ] Destaque visual da resposta correta
+- [x] Exibição de operações matemáticas simples (ex: 1+1, 2+2)
+- [x] Seleção de resposta por meio de botões visuais (múltipla escolha)
+- [x] Feedback visual imediato (cor verde para acerto e vermelho para erro)
+- [x] Interface simples e intuitiva com foco em elementos visuais
+- [x] Navegação básica entre exercícios
+- [x] Sequência de exercícios progressivos (nível fácil)
+- [x] Destaque visual da resposta correta
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
-O software tem como funcionalidades desejáveis: questões sobre a materia de português, no qual ao acertar deve se contabilizar com uma caixinha verde na alternativa. Ao final de cada questao, deve-se explicar porque aquela alternativa esta correta. Deve apresentar também um contador, para que o jogador saiba quantas ele acertou
+O software tem como funcionalidades desejáveis: questões sobre a materia de matemática, no qual ao acertar deve se contabilizar com uma caixinha verde na alternativa. Ao final de cada questao, deve-se explicar porque aquela alternativa esta correta. Deve apresentar também um contador, para que o jogador saiba quantas ele acertou
