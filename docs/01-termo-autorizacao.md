@@ -36,7 +36,7 @@
 
 | Campo | Informação |
 | ------- | ----------- |
-| Título/Tema da aplicação | Aula Dinâmica de Português |
+| Título/Tema da aplicação | Aula Dinâmica de Matemática |
 | Público-alvo | Alunos |
 | Nº estimado de usuários | 10 - 12|
 | Faixa etária do público | 10 - 18 anos|
@@ -45,7 +45,7 @@
 
 ### Breve descrição da aplicação e sua finalidade
 
-O software será desenvolvido com a parte de front end (HTML, JAVA SCRIPT E CSS), no qual será como um jogo de perguntas e respostas referentes a aula que será dada. O intuito desse software é fazer com que os alunos tenham uma aula mais extrovertida sobre a matéria Português e que possa enfatizar essa parte tão importante da Língua Portuguesa.
+O software será desenvolvido com a parte de front end (HTML, JAVA SCRIPT E CSS), no qual será como um jogo de perguntas e respostas referentes a aula que será dada. O intuito desse software é fazer com que os alunos tenham uma aula mais extrovertida sobre a matéria Matemática e que possa enfatizar essa parte tão importante dos números.
 
 ## 4. Levantamento de Demandas da Comunidade
 
