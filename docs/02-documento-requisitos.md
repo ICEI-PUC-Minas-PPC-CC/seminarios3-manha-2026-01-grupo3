@@ -35,11 +35,11 @@ tornando o aprendizado mais acessível, inclusivo e eficiente.
 
 | ID | Requisito | Prioridade | Origem da demanda |
 | ---- | ---------- | :----------: | ------------------ |
-| RF01 | | *(Alta/Média/Baixa)* | *(Reunião com a comunidade em DD/MM)* |
-| RF02 | | | |
-| RF03 | | | |
-| RF04 | | | |
-| RF05 | | | |
+| RF01 | Cadastro de usuário| Alta| Necessidade do sistema |
+| RF02 | Login com email e senha| Alta | Necessidade do sistema|
+| RF03 | Calculos matemáticos básicos| Alta| Objetivo da aplicação|
+| RF04 |Permitir interação do usuário por meio de botões, ícones e elementos visuais intuitivos| Alta | Necessidades de acessibilidade|
+| RF05 | Exibir resultados dos cálculos de forma clara e visual (números grandes, cores ou feedback visual)| Alta | Necessidades de acessibilidade|
 
 ## 4. Requisitos Não Funcionais
 
