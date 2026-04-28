@@ -1,104 +1,220 @@
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>Prototipo</title>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link type="text/css" rel="stylesheet" href="style.css" />
-		<script type="text/javascript" src=""></script>
-	</head>
-	
-	<body>
-		<div class="container">
-			<div class="ask-box">
-				<span>Calcule:</span>
-				<span>1 + 1 = ?</span>
-				<div class="respostas">
-					<button onclick="opErrada(this)">1</button>
-					<button onclick="opCerta(this)" class="correta">2</button>
-					<button onclick="opErrada(this)">3</button>
-				</div>
-			</div>
 
-			<div class="ask-box">
-				<span>Calcule:</span>
-				<span>2 + 2 = ?</span>
-				<div class="respostas">
-					<button onclick="opErrada(this)">1</button>
-					<button onclick="opCerta(this)" class="correta">4</button>
-					<button onclick="opErrada(this)">3</button>
-				</div>
-			</div>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Prototipo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link type="text/css" rel="stylesheet" href="style.css" />
+	<script type="text/javascript" src=""></script>
+</head>
 
-			<div class="ask-box">
-				<span>Calcule:</span>
-				<span>3 + 3 = ?</span>
-				<div class="respostas">
-					<button onclick="opErrada(this)">1</button>
-					<button onclick="opCerta(this)" class="correta">6</button>
-					<button onclick="opErrada(this)">3</button>
-				</div>
-			</div>
-
-			<div class="ask-box">
-				<span>Calcule:</span>
-				<span>4 + 4 = ?</span>
-				<div class="respostas">
-					<button onclick="opErrada(this)">1</button>
-					<button onclick="opCerta(this)" class="correta">8</button>
-					<button onclick="opErrada(this)">3</button>
-				</div>
-			</div>
-
-			<div class="ask-box">
-				<span>Calcule:</span>
-				<span>5 + 5 = ?</span>
-				<div class="respostas">
-					<button onclick="opErrada(this)">1</button>
-					<button onclick="opCerta(this)" class="correta">10</button>
-					<button onclick="opErrada(this)">3</button>
-				</div>
-			</div>
-
-			<div class="ask-box">
-				<span>Calcule:</span>
-				<span>6 + 6 = ?</span>
-				<div class="respostas">
-					<button onclick="opErrada(this)">1</button>
-					<button onclick="opCerta(this)" class="correta">12</button>
-					<button onclick="opErrada(this)">3</button>
-				</div>
+<body>
+	<div class="container">
+		<div class="ask-box ask-type1">
+			<span>1- Na frase: “O cachorro correu no parque.”</span>
+			<span>Qual é o sujeito?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> correu</button>
+				<button onclick="opErrada(this)">B->parque</button>
+				<button onclick="opCerta(this)" class="correta">C-> O cachorro</button>
 			</div>
 		</div>
 
-		<script>
-				function opCerta(botao) {
-					botao.classList.add("certo");
-					desativarBotoes(botao);
-				}
+		<div class="ask-box ask-type1">
+			<span>2- Na frase: “Maria estuda todos os dias.”</span>
+			<span>Qual é o verbo?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> Maria</button>
+				<button onclick="opCerta(this)" class="correta">B-> estuda</button>
+				<button onclick="opErrada(this)">C-> dias</button>
+			</div>
+		</div>
 
-				function opErrada(botao) {
-					botao.classList.add("errado");
-					mostrarCorreta(botao);
-					desativarBotoes(botao);
-				}
+		<div class="ask-box ask-type1">
+			<span>3- Na frase: “João e Ana brincam no quintal.”</span>
+			<span>Qual é o sujeito?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> brincam</button>
+				<button onclick="opCerta(this)" class="correta">B-> João e Ana</button>
+				<button onclick="opErrada(this)">C-> quintal</button>
+			</div>
+		</div>
 
-				function desativarBotoes(botao) {
-					const caixa = botao.closest(".ask-box");
-					const botoes = caixa.querySelectorAll("button");
+		<div class="ask-box ask-type1">
+			<span>4- Na frase: “A professora explicou a lição.”</span>
+			<span>Qual é o verbo?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> professora</button>
+				<button onclick="opErrada(this)">B-> lição</button>
+				<button onclick="opCerta(this)" class="correta">C-> explicou</button>
+			</div>
+		</div>
 
-					botoes.forEach((botao) => {
-					botao.disabled = true;
-					});
-				}
+		<div class="ask-box ask-type1">
+			<span>5- Na frase: “O menino comeu o lanche.”</span>
+			<span>Qual é o predicado?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> O menino</button>
+				<button onclick="opCerta(this)" class="correta">B-> comeu o lanche</button>
+				<button onclick="opErrada(this)">C-> lanche</button>
+			</div>
+		</div>
 
-				function mostrarCorreta(botao) {
-					const caixa = botao.closest(".ask-box");
-					const botaoCerto = caixa.querySelector(".correta");
+		<div class="ask-box ask-type1">
+			<span>6- Na frase: “A professora explicou a matéria.”</span>
+			<span>Qual é o predicado?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> A professora</button>
+				<button onclick="opCerta(this)" class="correta">B-> explicou a matéria</button>
+				<button onclick="opErrada(this)">C-> matéria</button>
+			</div>
+		</div>
 
-					botaoCerto.classList.add("certo");
-				}
-		</script>
-	</body>
+		<div class="ask-box ask-type2">
+			<span>7- Na frase: “O carro vermelho é rápido.”</span>
+			<span>Qual é o adjetivo?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> carro</button>
+				<button onclick="opCerta(this)" class="correta">B-> vermelho</button>
+				<button onclick="opErrada(this)">C-> rápido</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type2">
+			<span>8- Na frase: “A menina feliz brinca no parque.”</span>
+			<span>Qual é o adjetivo?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> menina</button>
+				<button onclick="opCerta(this)" class="correta">B-> feliz</button>
+				<button onclick="opErrada(this)">C-> parque</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type2">
+			<span>9- Na frase: “O cachorro grande latiu alto.”</span>
+			<span>Qual é o adjetivo?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> cachorro</button>
+				<button onclick="opErrada(this)">B-> latiu</button>
+				<button onclick="opCerta(this)" class="correta">C-> grande</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type2">
+			<span>10- Na frase: “A casa bonita foi pintada.”</span>
+			<span>Qual é o adjetivo?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> casa</button>
+				<button onclick="opCerta(this)" class="correta">B-> bonita</button>
+				<button onclick="opErrada(this)">C-> pintada</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type2">
+			<span>11- Na frase: “O aluno inteligente respondeu tudo.”</span>
+			<span>Qual é o adjetivo?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> aluno</button>
+				<button onclick="opCerta(this)" class="correta">B-> inteligente</button>
+				<button onclick="opErrada(this)">C-> respondeu</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type2">
+			<span>12- Na frase: “O filme interessante acabou.”</span>
+			<span>Qual é o adjetivo?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> filme</button>
+				<button onclick="opErrada(this)">B-> acabou</button>
+				<button onclick="opCerta(this)" class="correta">C-> interessante</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type3">
+			<span>13- Qual frase usa a vírgula corretamente?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> Eu gosto de pizza sorvete e bolo.</button>
+				<button onclick="opCerta(this)" class="correta">B-> Eu gosto de pizza, sorvete e bolo.</button>
+				<button onclick="opErrada(this)">C-> Eu gosto, de pizza sorvete e bolo.</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type3">
+			<span>14- Qual frase usa a vírgula corretamente?</span>
+			<div class="respostas">
+				<button onclick="opCerta(this)" class="correta">A-> João, venha aqui.</button>
+				<button onclick="opErrada(this)">B-> João venha, aqui.</button>
+				<button onclick="opErrada(this)">C-> João venha aqui.</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type3">
+			<span>15- Qual frase usa a vírgula corretamente?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> Ontem eu fui ao mercado.</button>
+				<button onclick="opCerta(this)" class="correta">B-> Ontem, eu fui ao mercado.</button>
+				<button onclick="opErrada(this)">C-> Ontem eu, fui ao mercado.</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type3">
+			<span>16- Qual frase usa a vírgula corretamente?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> Maria comprou pão leite e queijo.</button>
+				<button onclick="opCerta(this)" class="correta">B-> Maria comprou pão, leite e queijo.</button>
+				<button onclick="opErrada(this)">C-> Maria, comprou pão leite e queijo.</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type3">
+			<span>17- Qual frase usa a vírgula corretamente?</span>
+			<div class="respostas">
+				<button onclick="opErrada(this)">A-> Pedro gosta, de jogar bola.</button>
+				<button onclick="opErrada(this)">B-> Pedro gosta de, jogar bola.</button>
+				<button onclick="opCerta(this)" class="correta">C-> Pedro gosta de jogar bola.</button>
+			</div>
+		</div>
+
+		<div class="ask-box ask-type3">
+			<span>18- Qual frase usa a vírgula corretamente?</span>
+			<div class="respostas">
+				<button onclick="opCerta(this)" class="correta">A-> Ana, Pedro e Lucas chegaram.</button>
+				<button onclick="opErrada(this)">B-> Ana Pedro, e Lucas chegaram.</button>
+				<button onclick="opErrada(this)">C-> Ana Pedro e Lucas, chegaram.</button>
+			</div>
+		</div>
+	</div>
+
+	<script>
+		function opCerta(botao) {
+			botao.classList.add("certo");
+			desativarBotoes(botao);
+		}
+
+		function opErrada(botao) {
+			botao.classList.add("errado");
+			mostrarCorreta(botao);
+			desativarBotoes(botao);
+		}
+
+		function desativarBotoes(botao) {
+			const caixa = botao.closest(".ask-box");
+			const botoes = caixa.querySelectorAll("button");
+
+			botoes.forEach((botao) => {
+				botao.disabled = true;
+			});
+		}
+
+		function mostrarCorreta(botao) {
+			const caixa = botao.closest(".ask-box");
+			const botaoCerto = caixa.querySelector(".correta");
+
+			botaoCerto.classList.add("certo");
+		}
+	</script>
+</body>
+
 </html>
