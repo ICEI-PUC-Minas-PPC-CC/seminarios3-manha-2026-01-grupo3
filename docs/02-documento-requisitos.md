@@ -30,8 +30,8 @@
 
 | ID | Requisito | Prioridade | Origem da demanda |
 | ---- | ---------- | :----------: | ------------------ |
-| RF01 | Calculos matemáticos básicos| Alta| Objetivo da aplicação|
-| RF02 |Permitir interação do usuário por meio de botões, ícones e elementos visuais intuitivos| Alta | Necessidades de acessibilidade|
+| RF01 | Português básico| Alta| Objetivo da aplicação|
+| RF02 | Permitir interação do usuário por meio de botões, ícones e elementos visuais intuitivos| Alta | Necessidades de acessibilidade|
 | RF03 | Exibir resultados dos cálculos de forma clara e visual (números grandes, cores ou feedback visual)| Alta | Necessidades de acessibilidade|
 
 ## 4. Requisitos Não Funcionais
@@ -85,4 +85,4 @@ As funcionalidades mínimas para a primeira versão do sistema incluem:
 
 ## 9. Funcionalidades Desejáveis (se houver tempo)
 
-O software tem como funcionalidades desejáveis: questões sobre a materia de matemática, no qual ao acertar deve se contabilizar com uma caixinha verde na alternativa. Ao final de cada questao, deve-se explicar porque aquela alternativa esta correta. Deve apresentar também um contador, para que o jogador saiba quantas ele acertou
+O software tem como funcionalidades desejáveis: questões sobre a materia de português, no qual ao acertar deve se contabilizar com uma caixinha verde na alternativa. Ao final de cada questao, deve-se explicar porque aquela alternativa esta correta.
