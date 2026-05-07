@@ -10,15 +10,10 @@
 
 ## 1. Visão Geral
 
- A aplicação consiste em um protótipo simples de sistema de cálculos matemáticos básicos, como adição (ex: 1+1, 5+5), com o objetivo de auxiliar no 
-aprendizado e prática de operações simples.
- O sistema é destinado à instituição Tarso de Coimbra, atendendo usuários que podem possuir deficiência auditiva/surdez. Por isso, a aplicação foi 
-projetada com foco em uma interface altamente visual, intuitiva e de baixa complexidade.
- O principal problema que a aplicação busca resolver é a dificuldade que pessoas com deficiência auditiva podem ter ao utilizar sistemas que dependem 
-excessivamente de textos longos e explicações verbais. Isso pode dificultar o entendimento e o aprendizado de conteúdos básicos, como operações 
-matemáticas simples.
- Dessa forma, a aplicação propõe uma solução baseada em recursos visuais, utilizando cores, ícones e elementos gráficos para facilitar a compreensão,
-tornando o aprendizado mais acessível, inclusivo e eficiente.
+ A aplicação consiste em um protótipo simples de sistema educacional voltado ao aprendizado de conteúdos básicos da Língua Portuguesa, como adjetivos, verbos, sujeito, uso de vírgulas e perguntas, com o objetivo de auxiliar no ensino e na prática da escrita e interpretação textual.
+ O sistema é destinado à instituição Tarso de Coimbra, atendendo usuários que podem possuir deficiência auditiva/surdez. Por isso, a aplicação foi projetada com foco em uma interface altamente visual, intuitiva e de baixa complexidade.
+ O principal problema que a aplicação busca resolver é a dificuldade que pessoas com deficiência auditiva podem ter ao utilizar sistemas que dependem excessivamente de textos longos, explicações verbais e conteúdos pouco visuais. Isso pode dificultar a compreensão de regras gramaticais e o aprendizado de conceitos básicos da Língua Portuguesa.
+ Dessa forma, a aplicação propõe uma solução baseada em recursos visuais e interativos, utilizando cores, ícones, exemplos práticos e elementos gráficos para facilitar a compreensão dos conteúdos, tornando o aprendizado mais acessível, inclusivo e eficiente.
 
 ## 2. Público-Alvo
 
